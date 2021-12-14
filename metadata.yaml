@@ -1,0 +1,24 @@
+_repo: Uit-de-schooljaren-van-Hans-Doncker_66931
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mens, Is. van
+    gutenberg_agent_id: '54036'
+    url: http://www.gutenberg.org/2009/agents/54036
+creator:
+  author:
+    agent_name: Berens, Fred.
+    gutenberg_agent_id: '54035'
+    url: http://www.gutenberg.org/2009/agents/54035
+description: ''
+gutenberg_issued: '2021-12-12'
+identifiers:
+  gutenberg: '66931'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Uit de schooljaren van Hans Doncker
+url: http://www.gutenberg.org/ebooks/66931
