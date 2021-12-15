@@ -5,12 +5,17 @@ contributor:
     agent_name: Mens, Is. van
     gutenberg_agent_id: '54036'
     url: http://www.gutenberg.org/2009/agents/54036
+covers:
+- cover_type: archival
+  image_path: 66931-h/images/backcover.jpg
 creator:
   author:
     agent_name: Berens, Fred.
     gutenberg_agent_id: '54035'
     url: http://www.gutenberg.org/2009/agents/54035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66931#Uit-de-schooljaren-van-Hans-Doncker
 gutenberg_issued: '2021-12-12'
 identifiers:
   gutenberg: '66931'
